@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Friendly Chat</string>
+    <string name="menu_sign_out">Sign Out</string>
+    <string name="button_send">Send</string>
+    <string name="hint_edit_text">Write a message…</string>
+    <string name="description_image_message">image message</string>
+    <string name="description_image_picker">image picker</string>
+    <string name="description_empty_chat">empty chat</string>
+
+    <!-- Facebook login required -->
+    <string name="facebook_application_id" translatable="false">1843672215899326</string>
+    <!-- Facebook Application ID, prefixed by 'fb'.  Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1843672215899326</string>
+</resources>
